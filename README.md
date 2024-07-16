@@ -7,7 +7,6 @@ Este repositório foi criado para guardar os meus projetos de Arduino realizados
 O repositório possui uma pasta reservada para os projetos, onde cada uma também possui uma pasta dedicada para guardar seus arquivos. Cada projeto contém:
 
 - Imagem do circuito;
-- Descrição dos componentes utilizados;
 - Código do Arduino.
 
 ## Ferramentas Utilizadas
