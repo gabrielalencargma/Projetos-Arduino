@@ -13,7 +13,7 @@ O circuito funciona da seguinte maneira:
 
 ## Componentes
 
-Foram utilizados os seguintes componentes na montagem do circuito:
+Foram utilizados os seguintes componentes:
 
 - 1 Arduino Uno R3;
 - 1 LCD 16x2 I2C;
