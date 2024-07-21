@@ -1,6 +1,6 @@
 ## Funcionamento
 
-Essas são as seguintes etapas de funcionamento do circuito:
+O circuito funciona da seguinte maneira:
 
 - O sistema de alarme estará ativo apenas à noite;
   - Quando for de manhã, o LCD mostrará a mensagem: **"Alerta inativo, manha"**;
@@ -13,7 +13,7 @@ Essas são as seguintes etapas de funcionamento do circuito:
 
 ## Componentes
 
-Esses foram os seguintes componentes utilizados na montagem do circuito:
+Foram utilizados os seguintes componentes na montagem do circuito:
 
 - 1 Arduino Uno R3;
 - 1 LCD 16x2 I2C;
