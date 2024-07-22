@@ -16,6 +16,6 @@ Foram utilizados os seguintes componentes:
 - 1 Led Azul;
 - 1 Led Vermelho;
 - 1 Fotoresistor;
-- 4 Resistores.
+- 4 Resistores:
   - Leds: **100Ω**;
   - Fotoresistor: **1kΩ**.
