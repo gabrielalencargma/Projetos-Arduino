@@ -18,6 +18,6 @@ O circuito funciona da seguinte maneira:
 Foram utilizados os seguintes componentes:
 
 - 1 Arduino Uno R3;
-- 1 Led RGB
+- 1 Led RGB;
 - 3 Interruptores;
 - 3 Resistores de **120Ω**.
