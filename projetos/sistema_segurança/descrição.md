@@ -22,7 +22,7 @@ Foram utilizados os seguintes componentes:
 - 2 Botões;
 - 1 Sensor PIR;
 - 1 Fotoresistor;
-- 5 Resistores.
+- 5 Resistores:
   - Led: **100Ω**;
   - Piezo, Botões, Sensor PIR e Fotoresistor: **1kΩ**.
   
