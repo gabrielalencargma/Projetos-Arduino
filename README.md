@@ -10,7 +10,7 @@ O repositório possui uma pasta reservada para os projetos, onde cada uma també
 - Descrição do circuito;
 - Código do Arduino.
 
-## Ferramentas Utilizadas
+## Ambiente de Desenvolvimento
 
 Para desenvolver os projetos, utilizei a seguinte ferramenta:
 
